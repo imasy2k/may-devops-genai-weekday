@@ -16,7 +16,7 @@ public class HelloWorld {
 	
 	public void displayM1Information() { // Or a more specific name reflecting its purpose
 		
-		System.out.println("This is M1 chnage");
+		System.out.println("This is M1 change");
 	}
 
 }
